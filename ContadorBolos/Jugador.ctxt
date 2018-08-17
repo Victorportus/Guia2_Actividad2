@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Jugador
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=void\ jugador()
+comment2.params=
+comment2.target=void\ ronda()
+comment3.params=
+comment3.target=void\ rondafinal()
+comment4.params=
+comment4.target=void\ finalJuego()
+comment5.params=
+comment5.target=void\ tiro1()
+comment6.params=
+comment6.target=void\ tiro2()
+comment7.params=
+comment7.target=void\ tirof()
+comment8.params=
+comment8.target=void\ tirof2()
+comment9.params=
+comment9.target=void\ nuevoJuego()
+numComments=10
